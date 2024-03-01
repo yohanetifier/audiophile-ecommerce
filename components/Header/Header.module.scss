@@ -1,0 +1,13 @@
+.mainWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.route {
+    width: 429px;
+    display: flex;
+    justify-content: space-between;
+    a {
+        text-transform: uppercase;
+    }
+}
